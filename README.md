@@ -19,6 +19,6 @@ The site is deployed with GitHub Pages and connected to the domain:
 
 ## Contact
 
-César Arias
+Cesar Arias
 `carias@inversight.cl`
 
